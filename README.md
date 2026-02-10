@@ -75,4 +75,4 @@ Retrospective
     - Share your design with others, and get feedback on different approaches.
 ```
 
-Creditos: https://github.com/FactoriaF5-Asturias/kata-java-tdd-RPG-Combat
+Credits: https://github.com/FactoriaF5-Asturias/kata-java-tdd-RPG-Combat
